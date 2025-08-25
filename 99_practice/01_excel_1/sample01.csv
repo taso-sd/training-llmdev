@@ -1,0 +1,11 @@
+Date,Product,Region,Quantity,UnitPrice,Sales
+2024-04-12,Tablet,North,5,870,4350
+2024-06-28,PC,East,4,536,2144
+2024-04-02,Accessory,South,8,122,976
+2024-01-15,Tablet,North,7,664,4648
+2024-04-16,Accessory,South,2,776,1552
+2024-03-12,Tablet,West,1,813,813
+2024-01-21,Accessory,East,4,557,2228
+2024-04-12,Phone,West,8,182,1456
+2024-05-01,Accessory,North,2,244,488
+2024-03-15,Phone,West,3,184,552
